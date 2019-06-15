@@ -1,0 +1,19 @@
+
+h1 {
+    text-align: center;
+}
+.music {
+    text-align: center;
+}
+strong {
+    font-size: 25px;
+}
+footer {
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+}
+audio {
+    outline: none;
+}
