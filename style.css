@@ -31,9 +31,28 @@ audio {
 .nostyle {
     list-style-type:none;
 }
-/* header img {
-    margin: 0 auto;
-} */
+header img {
+    width: 100%;
+    display: block;
+}
 /* .left {
     border-radius: 20%;
 } */
+nav {
+    background-color:lightpink;
+}
+a.menu {
+    display:inline-block;
+    width:33.3%;
+    text-decoration: none;
+    padding: 10px;
+    color:black;
+    text-align: center;
+}
+a.menu:hover {
+    border-bottom: solid 4px crimson;
+   
+}
+.active{
+   border-bottom: solid 4px crimson;
+}
