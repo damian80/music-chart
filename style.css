@@ -4,9 +4,10 @@
     sans-serif;
     box-sizing: border-box;
 }
-/* body {
-    background-color:lightcyan;
-} */
+body {
+    margin: 15px;
+    border-radius:15px;
+}
 h1 {
     text-align: center;
 }
